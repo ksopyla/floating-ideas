@@ -3,4 +3,8 @@
 ---
 
 
-hohoho 
+#research/research-idea #research/concept-encoding
+
+#publish/seed
+
+
