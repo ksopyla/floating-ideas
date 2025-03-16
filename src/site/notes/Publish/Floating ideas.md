@@ -4,7 +4,7 @@
 
 #research/research-idea #research/concept-encoding #publish/seed
 
-[[Concept Encoder\|Concept Encoder]] - my research journey
+[[Research/Concept Encoder\|Concept Encoder]] - my research journey
 
 
 
